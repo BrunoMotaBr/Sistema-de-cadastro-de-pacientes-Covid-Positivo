@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671837625 source:c:\users\bruno\onedrive\Área de trabalho\projetos\c++\cadastropacientescovid\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+
